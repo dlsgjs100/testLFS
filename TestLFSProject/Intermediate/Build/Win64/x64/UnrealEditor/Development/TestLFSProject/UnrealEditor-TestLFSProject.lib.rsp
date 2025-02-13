@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestLFSProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Study_UE\testLFS\TestLFSProject\Intermediate\Build\Win64\x64\TestLFSProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Study_UE\testLFS\TestLFSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestLFSProject\TestLFSProject.cpp.obj"
+"D:\Study_UE\testLFS\TestLFSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestLFSProject\Default.rc2.res"
+/OUT:"D:\Study_UE\testLFS\TestLFSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestLFSProject\UnrealEditor-TestLFSProject.lib"

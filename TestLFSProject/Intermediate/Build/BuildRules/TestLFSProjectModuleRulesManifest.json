@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Study_UE\\testLFS\\TestLFSProject\\Source\\TestLFSProject\\TestLFSProject.Build.cs",
+		"D:\\Study_UE\\testLFS\\TestLFSProject\\Plugins\\UEGitPlugin-3.16\\Source\\GitSourceControl\\GitSourceControl.Build.cs",
+		"D:\\Study_UE\\testLFS\\TestLFSProject\\Source\\TestLFSProject.Target.cs",
+		"D:\\Study_UE\\testLFS\\TestLFSProject\\Source\\TestLFSProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
